@@ -2,4 +2,4 @@
 
 Excited to share my Data Analytics & Econometric Forecasting project with UNP Education, analyzing a 7,196-batch pharmaceutical dataset for Aura Therapeutics India Ltd. to solve monsoon-driven supply chain and inventory forecasting challenges. Through data preprocessing, dynamic Excel dashboards, hypothesis testing (t-tests & ANOVA), and regression modeling (SLR & MLR), I uncovered how active chemist reach and epidemic morbidity drive 64.2% of unit distribution variance (R^2 = 0.642), validated significant prescription lift from medical rep detailing campaigns (p < 0.001), and tracked ₹7,42,021 Lakhs in billing revenue across channels and therapeutic segments. As a second-year B.Com (Honours) student eager to apply my analytical skills and learn from experienced professionals, I’m actively seeking internship opportunities to grow and create measurable value
 
-MS EXCEL PROJECT FILE LINK: https://drive.google.com/drive/folders/1NMqSgWyrhl0g2J-d1JZgme2GoDhbMVqi?usp=sharing
+MS EXCEL PROJECT FILE LINK:https://drive.google.com/drive/folders/1NMqSgWyrhl0g2J-d1JZgme2GoDhbMVqi?usp=sharing
